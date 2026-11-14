@@ -8,10 +8,10 @@
 
   // Copiar el tarifario en texto plano, listo para pegar en WhatsApp.
   var TARIFA_TXT = [
-    'TARIFARIO BUEN FIN AMMJE — TODO −30%',
-    'Shel Valdés · Diseño, web e IA para tu negocio',
+    'BUEN FIN AMMJE — 30% DE DESCUENTO',
+    'Dale forma al siguiente paso de tu negocio con diseño, web y estrategia.',
     '',
-    'SERVICIOS SUELTOS (precio con descuento):',
+    'SERVICIOS (precios con descuento):',
     '• Logo IA — $210 (base $300)',
     '• Logo profesional, 1 propuesta — $840 (base $1,200)',
     '• Logo profesional, 3 propuestas — $2,100 (base $3,000)',
@@ -20,13 +20,14 @@
     '• Manual de identidad de marca — $4,900 (base $7,000)',
     '• Sesión de diagnóstico y orientación express (2 h) — $2,310 (base $3,300)',
     '',
-    'PAQUETES:',
+    'PAQUETES PARA CADA ETAPA:',
     '• EMPRENDEDORA — desde $4,620 con plantilla / $6,020 con landing',
     '• EMPRESARIA — desde $6,510 con plantilla / $7,910 con landing',
     '• VISIONARIA — $9,310 (web aparte, a cotizar)',
     '• DIAGNÓSTICO EXPRESS — $2,310',
     '',
-    'Precios en MXN. Pedidos por WhatsApp: 871 197 3093'
+    'Precios en MXN. Cada proyecto comienza con un briefing incluido.',
+    '¿Te ayudo a elegir? Escríbeme por WhatsApp: 871 197 3093'
   ].join('\n');
 
   var copyBtn = document.getElementById('copyBtn');
