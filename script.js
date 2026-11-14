@@ -26,7 +26,8 @@
     '• VISIONARIA — $9,310 (web aparte, a cotizar)',
     '• DIAGNÓSTICO EXPRESS — $2,310',
     '',
-    'Precios en MXN. Cada proyecto comienza con un briefing incluido.',
+    'Precios en MXN más IVA. Promoción vigente hasta el 20 de noviembre de 2026.',
+    'Cada proyecto comienza con un briefing incluido.',
     '¿Te ayudo a elegir? Escríbeme por WhatsApp: 871 197 3093'
   ].join('\n');
 

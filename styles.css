@@ -1,6 +1,7 @@
 
   :root{
     --magenta:#E6007E;
+    --magenta-on-dark:#F044A0;
     --ao:#34A891;
     --ao-band:#70D0B2;
     --ink:#0D0D0D;
@@ -67,7 +68,7 @@
     font-size:clamp(2.6rem, 8.5vw, 5.4rem);
     line-height:.98; margin:0; text-transform:uppercase; letter-spacing:-.01em;
   }
-  .hero h1 .m{ color:var(--magenta); }
+  .hero h1 .m{ color:var(--magenta-on-dark); }
   .hero h1 .a{ color:var(--ao); }
   .hero .lede{ font-size:clamp(1.05rem, 2.6vw, 1.35rem); font-weight:600; max-width:34em; margin:0; color:#F2F2F2; }
   .hero .lede b{ color:var(--ao); }
